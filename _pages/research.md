@@ -5,24 +5,20 @@ permalink: /research/
 author_profile: true
 ---
 
-## Research Areas
+## Research Interests
 
-### Ray-Tracing Channel Modeling
+### Ray-Tracing Channel Modelling for Complex Dynamic Scenarios
 
-Development of efficient and scalable ray-tracing approaches for complex 6G propagation environments, with emphasis on dynamic scenarios, all-spectrum propagation, and reduced computational complexity.
+Development of efficient, scalable, and high-fidelity ray-tracing methods for future wireless systems, including UAV, satellite, industrial IoT, vehicular, RIS-assisted, and other highly dynamic propagation environments.
 
-### UAV and High-Mobility Communications
+### Intelligent Environmental Sensing and Wireless Digital Twins
 
-Channel modeling and performance analysis for UAV air-to-ground communications, including millimeter-wave propagation, UAV wobbling, adaptive modulation, and high-mobility ray tracing.
+Use of radio propagation information to reconstruct and continuously update virtual representations of physical wireless environments, supporting channel prediction, network optimisation, and deployable wireless digital twins.
 
-### Industrial IoT and Radio Environment Modeling
+### Radio Localisation and Multipath-Based Sensing
 
-Channel measurements, propagation analysis, base-station deployment, and ray-tracing-based network planning for industrial and indoor wireless environments.
+Exploitation of line-of-sight and non-line-of-sight multipath components for localisation, environmental sensing, geometry reconstruction, and physical-digital mismatch estimation.
 
-### Non-Terrestrial Networks
+### Graph Neural Networks for Wireless Communications
 
-Ray-tracing and geometry-based stochastic channel modeling for LEO satellite-to-ground, satellite-to-maritime, and aerial communication systems.
-
-### AI for Wireless Propagation
-
-Application of graph neural networks and other machine-learning methods to accelerate ray tracing, reconstruct radio environments, and support physics-aware wireless digital twins.
+Integration of graph neural networks and other AI methods with physical propagation models to accelerate ray tracing, improve channel prediction, and enable scalable radio-environment modelling.
