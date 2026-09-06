@@ -1,36 +1,44 @@
 ---
-layout: archive
+layout: single
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+## Journal Articles
 
-{% include base_path %}
+1. **S. Yang**, C.-X. Wang, Y. Wang, J. Huang, Y. Zhou, and E. M. Aggoune, “An efficient pre-processing method for 6G dynamic ray-tracing channel modeling,” *IEEE Transactions on Vehicular Technology*, vol. 74, no. 5, pp. 6941–6953, May 2025.
+2. **S. Yang**, Z. Zhang, J. Zhang, X. Chu, and J. Zhang, “Adaptive modulation for wobbling drone air-to-ground links in millimeter-wave bands,” *IEEE Internet of Things Journal*, vol. 12, no. 8, pp. 9792–9804, Apr. 2025.
+3. **S. Yang**, Z. Zhang, J. Zhang, and J. Zhang, “Impact of rotary-wing UAV wobbling on millimeter-wave air-to-ground wireless channel,” *IEEE Transactions on Vehicular Technology*, vol. 71, no. 9, pp. 9174–9185, Sept. 2022.
+4. Y. Zhou, C.-X. Wang, **S. Yang**, Y. Wang, J. Huang, S. Sun, and E. M. Aggoune, “A novel array-based ray tracing channel model for 6G ultra-massive MIMO communications,” *IEEE Transactions on Communications*, vol. 74, pp. 10232–10245, 2026.
+5. L. Hou, C.-X. Wang, H. Chang, **S. Yang**, J. Huang, Y. Yang, Y. Chen, and E. M. Aggoune, “A novel 6G AAV-to-ground MIMO channel model for long-range communications incorporating troposcatter characteristics,” *IEEE Transactions on Wireless Communications*, vol. 25, pp. 18718–18733, 2026.
+6. X. Mao, C.-X. Wang, **S. Yang**, J. Lyu, J. Huang, S. Chen, and J. Zhang, “Impacts of wall materials and locations on channel characteristics and performance of indoor wireless communication systems,” *IEEE Transactions on Wireless Communications*, vol. 25, pp. 8799–8811, 2026.
+7. S. Liu, Y. Feng, **S. Yang**, B. Ma, and C. Li, “An efficient ray tracing framework for urban scenarios powered by heterogeneous graph neural networks,” *IEEE Antennas and Wireless Propagation Letters*, vol. 24, no. 9, pp. 2884–2888, Sept. 2025.
+8. Y. Zhou, C.-X. Wang, **S. Yang**, Y. Wang, J. Huang, and E. M. Aggoune, “A novel projection-based beam ray launching method for wireless channel modeling,” *IEEE Transactions on Antennas and Propagation*, vol. 73, no. 4, pp. 2572–2584, Apr. 2025.
+9. X. Mao, C.-X. Wang, J. Huang, **S. Yang**, Y. Ou, and J. Lyu, “Performance analysis for 6G local area networks: Optimization and trade-offs,” *IEEE Wireless Communications*, vol. 32, no. 6, pp. 44–50, Dec. 2025.
+10. Z. Li, W. Ma, Z. Zhang, **S. Yang**, Z.-Y. Wu, and J. Zhang, “Renewable energy power supply scheme for wireless network nodes: A comprehensive survey,” *IEEE Internet of Things Journal*, 2026, early access.
+11. Z. Li, J. Cai, Y. Zhu, H. Zhang, **S. Yang**, and J. Zhang, “Electromagnetic parameter extraction algorithm based on modified Harris Hawks optimization–differential evolution,” *IEEE Antennas and Wireless Propagation Letters*, 2026, early access.
+12. L. Zhang, C.-X. Wang, Z. Zhou, L. Xin, J. Huang, **S. Yang**, and E.-H. M. Aggoune, “A novel 6G GBSM for indoor scenarios incorporating dense multipath components towards standardization,” *IEEE Transactions on Vehicular Technology*, vol. 74, no. 7, pp. 10927–10942, July 2025.
+13. Y. Jiang, H. Hu, **S. Yang**, J. Zhang, and J. Zhang, “Generalized 3-D spatial scattering modulation,” *IEEE Transactions on Wireless Communications*, vol. 21, no. 3, pp. 1570–1585, Mar. 2022.
+14. Y. Zhang, C. Chen, **S. Yang**, J. Zhang, X. Chu, and J. Zhang, “How friendly are building materials as reflectors to indoor LOS MIMO communications?” *IEEE Internet of Things Journal*, vol. 7, no. 9, pp. 9116–9127, Sept. 2020.
+15. C. Chen, **S. Yang**, J. Zhang, X. Chu, and J. Zhang, “Tractable performance analysis of small-cell networks with a novel bounded path loss model,” *Electronics Letters*, vol. 56, no. 2, pp. 105–107, Jan. 2020.
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+## Conference Papers
 
+The CV lists 24 peer-reviewed conference papers, including papers presented at IEEE WCNC, IEEE ICC, IEEE VTC, IEEE/CIC ICCC, IEEE GLOBECOM, EuCAP, PIMRC, ICCT, WCSP, and ISAP.
 
+Selected recent papers:
 
+- S. Zhang, **S. Yang**, J. Huang, C.-X. Wang, and K. Wang, “Interference modeling and performance analysis of LEO satellite networks based on beam hopping,” *IEEE WCNC*, 2026.
+- Y. Zhao, **S. Yang**, Y. Wang, J. Li, H. Yan, and C.-X. Wang, “A novel ray-tracing channel model with full-wave simulations for THz communication systems,” *IEEE WCNC*, 2026.
+- D. Bai, **S. Yang**, Y. Wang, J. Huang, C.-X. Wang, and F.-C. Zheng, “Ray tracing channel modeling for 6G RIS-beamforming communications at 28 GHz,” *IEEE VTC-Fall*, 2025.
+- Y. Guo, **S. Yang**, Y. Wang, J. Huang, C.-X. Wang, and Y. Zhou, “Fast reconstruction of indoor electromagnetic environment based on floor plans,” *IEEE ICCT*, 2025. **Best Paper Award**.
+- J. Lyu, **S. Yang**, Y. Wang, C.-X. Wang, J. Huang, and F.-C. Zheng, “IIoT network planning and coverage analysis considering blockage effects,” *WCSP*, 2024. **Best Paper Award**.
+- **S. Yang**, J. Zhang, and J. Zhang, “Energy efficiency optimization in millimeter-wave air-to-ground links under UAV wobbling,” *IEEE PIMRC*, 2022.
+
+## Patents
+
+1. C.-X. Wang, J. Huang, **S. Yang**, et al., “Ray-tracing channel modeling method and system for intelligent metasurfaces based on stepwise simulation,” Chinese Patent ZL202311084059.9.
+2. C.-X. Wang, D. Chen, **S. Yang**, et al., “Indoor multi-base-station location optimization method at millimeter-wave bands based on ray tracing,” Chinese Patent ZL202311085001.6.
+3. C.-X. Wang, K. Zhang, **S. Yang**, et al., “Ray-tracing channel modeling method for LEO satellite communications,” Chinese Patent ZL202311763522.2.
+4. Y. Wang, **S. Yang**, C.-X. Wang, J. Huang, and C. Huang, “Channel modeling method and apparatus for satellite-to-ground communications,” Chinese Patent ZL202411401130.6.

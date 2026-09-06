@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -7,58 +7,39 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+## Education
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+**Ph.D., University of Sheffield, UK**  
+2018–2022  
+Dissertation: *Channel model and performance analysis of millimetre-wave UAV air-to-ground link under UAV wobbling*
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**B.Eng. (First-Class Honours), University of Sheffield, UK**  
+2014–2017  
+Electronic and Communications Engineering
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Professional Experience
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**Postdoctoral Researcher, Purple Mountain Laboratories, Nanjing, China**  
+2022–2025  
+Research on industrial IoT, integrated sensing and communications, centimetre-wave indoor channel measurements, and low-complexity ray-tracing simulation platforms.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**Visiting Scholar, Chalmers University of Technology, Gothenburg, Sweden**  
+2019
+
+**R&D Engineer, Ranplan Wireless Network Design Ltd, Cambridge, UK**  
+2019–2020
+
+**Project Manager, is3DMIMO, University of Sheffield, Sheffield, UK**  
+2018–2022
+
+## Research Funding
+
+Principal investigator or sub-project leader on four funded research projects, including the National Natural Science Foundation of China and a National Key R&D Program of China sub-project.
+
+## Research Output
+
+- 15 journal papers
+- 24 conference papers
+- 4 authorized patents
+- 3 Best Paper Awards
+- Gold Award, 2025 National Postdoctoral Innovation and Entrepreneurship Competition
