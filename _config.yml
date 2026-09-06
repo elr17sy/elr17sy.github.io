@@ -8,7 +8,7 @@ baseurl                  : ""
 repository               : "elr17sy/elr17sy.github.io"
 
 author:
-  avatar           :
+  avatar           : "Profile_photo.jpg"
   name             : "Songjiang Yang"
   pronouns         :
   bio              : "Wireless Communications Researcher | 6G Channel Modeling | Ray Tracing"
