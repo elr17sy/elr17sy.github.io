@@ -11,16 +11,16 @@ author:
   avatar           : "Profile_photo.jpg"
   name             : "Songjiang Yang"
   pronouns         :
-  bio              : "Wireless Communications Researcher | 6G Channel Modeling | Ray Tracing"
-  location         :
-  employer         :
+  bio              : "Postdoctoral Research Fellow | 6G Channel Modelling | Ray Tracing | Wireless Digital Twins"
+  location         : "Nanjing, China"
+  employer         : "Purple Mountain Laboratories"
   uri              :
   email            : "syang20140111@gmail.com"
 
   arxiv            :
   googlescholar    : https://scholar.google.co.uk/citations?hl=en&user=ptrdlfMAAAAJ
   impactstory      :
-  orcid            :
+  orcid            : "https://orcid.org/0000-0002-9052-9092"
   semantic         :
   pubmed           :
   researchgate     :
@@ -92,7 +92,10 @@ social:
   type                   : Person
   name                   : "Songjiang Yang"
   links:
-
+    - "https://orcid.org/0000-0002-9052-9092"
+    - "https://scholar.google.co.uk/citations?hl=en&user=ptrdlfMAAAAJ"
+    - "https://github.com/elr17sy"
+    
 analytics:
   provider               : "false"
   google:
