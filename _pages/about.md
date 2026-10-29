@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a **Postdoctoral Research Fellow at Purple Mountain Laboratories, Nanjing, China**. My research focuses on radio propagation and channel modelling for future wireless communication systems, with particular interests in ray tracing, wireless digital twins, radio localisation, multipath sensing, and AI-assisted wireless modelling.
+I am an **Associate Professor at Shanghai University, Shanghai, China**. I was a Postdoctoral Research Fellow at Purple Mountain Laboratories, Nanjing, China. My research focuses on radio propagation and channel modelling for future wireless communication systems, with particular interests in ray tracing, wireless digital twins, radio localisation, multipath sensing, and AI-assisted wireless modelling.
 
-I received the Ph.D. degree in Electrical and Electronic Engineering from the **University of Sheffield, U.K.**, in 2022. My doctoral research investigated channel modelling and performance analysis of millimetre-wave UAV air-to-ground links under UAV wobbling.
+I received the Ph.D. degree in Electrical and Electronic Engineering from the **University of Sheffield, U.K.**, in 2022. My doctoral research investigated channel modelling and performance analysis of millimetre-wave UAV air-to-ground links under UAV wobbling and was supervised by Prof. Jie Zhang.
 
 ## Research Interests
 
