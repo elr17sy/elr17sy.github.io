@@ -12,16 +12,18 @@ redirect_from:
 **Ph.D. in Electrical and Electronic Engineering, University of Sheffield, Sheffield, U.K.**  
 01/2018–06/2022  
 Thesis: *Channel model and performance analysis of millimetre-wave UAV air-to-ground link under UAV wobbling*  
-Supervisor: Prof. Jie Zhang
+Supervisor: Prof. Jie Zhang, FREng.
 
 **B.Eng. in Electronic and Communications Engineering, University of Sheffield, Sheffield, U.K.**  
 09/2014–06/2017  
 First-Class Honours
 
 ## Work Experience
+**Associate Professor, Shanghai University, Shanghai, China**  
+10/2026–Present  
 
 **Postdoctoral Research Fellow, Purple Mountain Laboratories, Nanjing, China**  
-08/2022–Present  
+08/2022–09/2026  
 Supervisor: Prof. Cheng-Xiang Wang, IEEE Fellow
 
 ## Research Interests
